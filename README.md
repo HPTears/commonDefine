@@ -1,0 +1,2 @@
+# commonDefine
+define
